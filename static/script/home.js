@@ -5,7 +5,7 @@ const tips = [
     'Access popular media & sites easily in <a href="#apps">apps.</a>',
     'This unofficial Incognito version is made by github user N&#173;r&#173;z&#173;t.',   
     'Join our <a href="#community">d&#173;i&#173;sco&#173;rd</a> ( not official )',
-    'Support Incognito at our <a href="support.html">website</a>'
+    'Support Incognito at our <a href="./support.html">website</a>'
 ];
 
 
