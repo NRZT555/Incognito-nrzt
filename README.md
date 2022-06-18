@@ -10,15 +10,15 @@
 
 <p align="center">
 <a href="https://heroku.com/deploy?template=https://github.com/IDontCodee/Incognito"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"><img></a>
-<a href="https://github.com/IDontCodee/Incognito/wiki/About-Replit..."><img height="30px" src="https://raw.githubusercontent.com/IDontCodee/Incognito/main/deploy/replit.svg"><img></a>
-<a href="https://railway.app/new/template?template=https://github.com/IDontCodee/Incognito"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
+<a href="https://github.com/IDontCodee/Incognito/wiki/About-Replit..."><img height="30px" src="https://raw.githubusercontent.com/NRZT555/Incognito-nrzt/main/deploy/replit.svg"><img></a>
+<a href="https://railway.app/new/template?template=https://github.com/NRZT555/Incognito-nrzt"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
 </p>
          
 <div align="center">
          To get started, press one of the buttons above to deploy Incognito
          <br>
          <br>
-         You can find more info on the <a href="https://github.com/IDontCodee/Incognito/">wiki</a>
+         You can find more info on the <a href="https://github.com/NRZT555/Incognito-nrzt/Incognito/">wiki</a>
          <br>
          <br>
          If that does not answer your question or you want to share the link you made, join our <a href="#discord-server">Discord server</a>
