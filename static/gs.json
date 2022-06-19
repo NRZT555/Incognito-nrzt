@@ -1,4 +1,4 @@
-
+[
     {
       "img": "./img/gs/krk.png",
       "location": "./load.html#a3J1bmtlci5pbw%3D%3D",
@@ -40,17 +40,18 @@
       "title": "Splitgate",
       "category": "gfn"
     },
-      "img": "./img/gs/among.jpg",
-      "location": "./load.html#aHR0cHM6Ly9ub3cuZ2cvcGxheS9pbm5lcnNsb3RoLWxsYy80MDQ3L2Ftb25nLXVz",
-      "category": "multi",
-      "featured": true,
-      "title": "Among Us"
-    },
     {
       "img": "./img/gs/1-on-1-soccer.jpg",
       "location": "/source/swfs/#1on1soccer",
       "title": "1 on 1 Soccer",
       "description": "\r\n\r\nDon't you enjoy the straight-forward athletic duels on the field? In 1 on 1 Soccer, you get to face off against another player (Computer or real) in a 2 player football match. Run up against the ball to kick it across the field. Jump up in the air to move the ball with your head, or to simply stand on your opponent's. A match only lasts five minutes. Before you know it, you're itching for a rematch.\r\n\r\nThe easy gameplay makes this soccer match fun and addictive. Grab your best friend and play a duell to find out who can handle the ball better. Aim into your opponent's goal and try to keep it as far away as possible from your own. What are you waiting for? Have some sporty fun with those funny looking figures in 1 on 1 Soccer, online and for free on Silvergames.com!\r\n\r\nControls: WASD \/ Arrows = Move\/Jump\r\n"
+    },
+    {
+      "img": "./img/gs/among.jpg",
+      "location": "./load.html#aHR0cHM6Ly9ub3cuZ2cvcGxheS9pbm5lcnNsb3RoLWxsYy80MDQ3L2Ftb25nLXVz",
+      "category": "multi",
+      "featured": true,
+      "title": "Among Us"
     },
     {
       "img": "./img/gs/1v1-lol.jpg",
