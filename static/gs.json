@@ -1,4 +1,4 @@
-[
+
     {
       "img": "./img/gs/krk.png",
       "location": "./load.html#a3J1bmtlci5pbw%3D%3D",
@@ -39,6 +39,12 @@
       "location": "./load.html#aHR0cHM6Ly9wbGF5LmdlZm9yY2Vub3cuY29tL21hbGwvIy9kZWVwbGluaz9nYW1lLWlkPTM5Njk5ZmI3LTVhMDUtNDFlNi04NmIyLTNjZDZmZDZjNDU5Yw%3D%3D",
       "title": "Splitgate",
       "category": "gfn"
+    },
+      "img": "./img/gs/among.jpg",
+      "location": "./load.html#aHR0cHM6Ly9ub3cuZ2cvcGxheS9pbm5lcnNsb3RoLWxsYy80MDQ3L2Ftb25nLXVz",
+      "category": "multi",
+      "featured": true,
+      "title": "Among Us"
     },
     {
       "img": "./img/gs/1-on-1-soccer.jpg",
