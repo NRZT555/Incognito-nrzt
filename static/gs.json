@@ -23,6 +23,15 @@
       "title": "Shell Shockers"
     },
     {
+      "img": "./img/gs/pg3d.png",
+      "location": "./source/pg3d",
+      "title": "Pixel Gun 3D - Battle Royale",
+      "author": "cubic games",
+      "description": "Pixel Gun 3D, formerly Pixlgun 3D, is the first Pixel Gun game, published on mobile devices. It's a pixelated FPS shooter with various modes, including singleplayer Campaign and online multiplayer matches.",
+      "category": "multi",
+      "featured": true
+    },
+    {
       "img": "./img/gs/skiribbl.png",
       "location": "./load.html#aHR0cHM6Ly9za3JpYmJsLmlv",
        "category": "multi",
